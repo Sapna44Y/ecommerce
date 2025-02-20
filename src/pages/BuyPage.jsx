@@ -36,7 +36,7 @@ const BuyPage = () => {
 
   return (
     <div className="flex items-center justify-center min-h-screen bg-gray-50 mt-20 ">
-      <div className="max-w-3xl mt-28 mx-auto p-6 sm:p-8 lg:p-10 m-8 sm:m-10 bg-white shadow-lg rounded-lg border-2 border-gray-300 hover:border-blue-200 transition-all duration-300 hover:shadow-xl flex flex-col justify-center items-center">
+      <div className="max-w-3xl mt-28 mx-auto p-6 sm:mx-12 sm:p-8 lg:p-10 m-8 sm:m-10 bg-white shadow-lg rounded-lg border-2 border-gray-300 hover:border-blue-200 transition-all duration-300 hover:shadow-xl flex flex-col justify-center items-center">
         <h2 className="text-2xl sm:text-3xl lg:text-4xl xl:text-5xl font-bold mb-4 text-black">
           Order Summary
         </h2>
