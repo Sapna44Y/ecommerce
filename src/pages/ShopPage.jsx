@@ -1,7 +1,6 @@
 import React, { useContext } from "react";
 import { ProductContext } from "../context/ProductContext";
 import ProductCard from "../components/ProductCard";
-import Header from "../components/Header"; // Include Header
 
 const ShopPage = () => {
   const { filteredProducts } = useContext(ProductContext);
